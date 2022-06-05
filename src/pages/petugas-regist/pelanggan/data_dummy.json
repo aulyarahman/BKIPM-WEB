@@ -1,0 +1,82 @@
+[
+  {
+    "customer": "Alpha",
+    "pemilik": "Gran",
+    "email": "gbecks0@ox.ac.uk",
+    "noHp": "+48 150 269 0603",
+    "alamat": "882 Westend Circle",
+    "date": "01/12/2022"
+  },
+  {
+    "customer": "Quo Lux",
+    "pemilik": "Joell",
+    "email": "jouldcott1@ovh.net",
+    "noHp": "+351 967 710 9051",
+    "alamat": "8244 Kinsman Way",
+    "date": "02/13/2022"
+  },
+  {
+    "customer": "Zaam-Dox",
+    "pemilik": "Rodd",
+    "email": "rbainbridge2@mail.ru",
+    "noHp": "+86 268 228 8364",
+    "alamat": "3 Northview Avenue",
+    "date": "10/30/2021"
+  },
+  {
+    "customer": "Tresom",
+    "pemilik": "Angela",
+    "email": "amedwell3@engadget.com",
+    "noHp": "+62 618 396 1926",
+    "alamat": "4 Summit Pass",
+    "date": "09/13/2021"
+  },
+  {
+    "customer": "Ronstring",
+    "pemilik": "Hanan",
+    "email": "hlongina4@noaa.gov",
+    "noHp": "+48 513 536 0727",
+    "alamat": "09620 Hallows Trail",
+    "date": "08/02/2021"
+  },
+  {
+    "customer": "Tin",
+    "pemilik": "Suzanna",
+    "email": "saves5@vistaprint.com",
+    "noHp": "+7 186 517 2892",
+    "alamat": "19786 Ridgeway Avenue",
+    "date": "10/27/2021"
+  },
+  {
+    "customer": "Prodder",
+    "pemilik": "Der",
+    "email": "dmaplethorp6@printfriendly.com",
+    "noHp": "+63 622 161 6555",
+    "alamat": "213 Barnett Avenue",
+    "date": "11/10/2021"
+  },
+  {
+    "customer": "Regrant",
+    "pemilik": "Tabina",
+    "email": "tgroom7@qq.com",
+    "noHp": "+355 364 713 9939",
+    "alamat": "068 Forest Terrace",
+    "date": "05/14/2021"
+  },
+  {
+    "customer": "Bytecard",
+    "pemilik": "Rockie",
+    "email": "rhousden8@theatlantic.com",
+    "noHp": "+62 782 558 1625",
+    "alamat": "397 West Lane",
+    "date": "12/31/2021"
+  },
+  {
+    "customer": "Andalax",
+    "pemilik": "Towney",
+    "email": "tcargo9@w3.org",
+    "noHp": "+234 803 865 8219",
+    "alamat": "22059 Milwaukee Crossing",
+    "date": "02/28/2022"
+  }
+]

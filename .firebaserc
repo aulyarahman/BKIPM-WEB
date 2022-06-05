@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "test-function-app-56599"
+  },
+  "targets": {
+    "test-function-app-56599": {
+      "hosting": {
+        "test-function-app-56599": [
+          "test-function-app-56599"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "roles": "Subcontractor",
+    "jumlah_pengguna": 1
+  },
+  {
+    "roles": "Engineer",
+    "jumlah_pengguna": 2
+  },
+  {
+    "roles": "Architect",
+    "jumlah_pengguna": 3
+  },
+  {
+    "roles": "Construction Worker",
+    "jumlah_pengguna": 4
+  },
+  {
+    "roles": "Construction Manager",
+    "jumlah_pengguna": 5
+  },
+  {
+    "roles": "Subcontractor",
+    "jumlah_pengguna": 6
+  },
+  {
+    "roles": "Supervisor",
+    "jumlah_pengguna": 7
+  },
+  {
+    "roles": "Project Manager",
+    "jumlah_pengguna": 8
+  },
+  {
+    "roles": "Construction Foreman",
+    "jumlah_pengguna": 9
+  },
+  {
+    "roles": "Construction Foreman",
+    "jumlah_pengguna": 10
+  }
+]
